@@ -50,10 +50,6 @@ pip install -r requirements.txt
 python mainprojectoutput.py
 ```
 
-## Demo
-
-_Add screenshots or a GIF here._
-
 ## Future Improvements
 
 - Add word and sentence recognition
