@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+Image/
+MP_data/
 .vscode/
 Logs/
 __pycache__/
